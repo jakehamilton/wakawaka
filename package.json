@@ -1,0 +1,24 @@
+{
+  "name": "wakawaka",
+  "version": "1.0.0",
+  "description": "Deploy dockerized programs quickly and efficiently",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests :(\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakehamilton/wakawaka.git"
+  },
+  "keywords": [
+    "wakawaka",
+    "<>",
+    "docker"
+  ],
+  "author": "Jake Hamilton <jehamilton122@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakehamilton/wakawaka/issues"
+  },
+  "homepage": "https://github.com/jakehamilton/wakawaka#readme"
+}
